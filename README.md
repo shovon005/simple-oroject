@@ -1,1 +1,1 @@
-# simple-oroject
+# simple-project
